@@ -17,4 +17,4 @@ N/A
 If you have any questions, please feel free to email me at m.bonnev10@gmail.com or take a look at my github page: https://github.com/mbone1 
 
 ![Employee Organizer](screenshot1.PNG)
-![Employee Organizer Gif](Untitled_Sep_1,_2020_600_PM.gif)
+![Employee Organizer Gif](gif1.gif)
